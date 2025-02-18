@@ -1,8 +1,9 @@
 **AGENDA**
 
- How to install Terraform
- How to configure Terraform
+ 1. How to install Terraform
  
- How to start writing the first terraform script
+ 2. How to configure Terraform
  
- How to start executing the first terraform script
+ 3. How to start writing the first terraform script
+ 
+ 4. How to start executing the first terraform script
